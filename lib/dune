@@ -1,0 +1,16 @@
+(rule
+  (targets parser_j.ml parser_j.mli)
+  (deps    parser.atd)
+  (mode    fallback)
+  (action  (run atdgen -j %{deps})))
+
+(rule
+  (targets parser_t.ml parser_t.mli)
+  (deps    parser.atd)
+  (mode    fallback)
+  (action  (run atdgen -t %{deps})))
+
+(library
+ (name notionml)
+ (libraries atdgen)
+ (modules api parser_t parser_j lowercase_type_field))

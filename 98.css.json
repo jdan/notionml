@@ -1,0 +1,1188 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "block",
+      "id": "8c7e152f-5e37-4a23-a938-4fdca23eb663",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": { "content": "A few days ago ", "link": null },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A few days ago ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "I launched 98.css",
+              "link": { "url": "https://jdan.github.io/98.css/" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I launched 98.css",
+            "href": "https://jdan.github.io/98.css/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", a \"design system\" (it's a CSS file) for making\ninterfaces that look like Windows 98 (",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", a \"design system\" (it's a CSS file) for making\ninterfaces that look like Windows 98 (",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "on GitHub",
+              "link": { "url": "https://github.com/jdan/98.css" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "on GitHub",
+            "href": "https://github.com/jdan/98.css"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "). I'm pretty proud with how it turned out.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "). I'm pretty proud with how it turned out.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "f8e2459b-b749-407d-bb1f-5e20c2658f94",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b50dbbf9-f882-44c6-bca0-52f3fd96259f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211113T164841Z&X-Amz-Expires=3600&X-Amz-Signature=66433b153b8d690a172ab2fa9b58b70328b8f0722d2cdc3288b18a604ddb3244&X-Amz-SignedHeaders=host",
+          "expiry_time": "2021-11-13T17:48:41.777Z"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "52c21595-fc88-451c-83f9-8f50c1fa55cd",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I actually started exploring this idea two years ago in ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I actually started exploring this idea two years ago in ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "a small codepen",
+              "link": { "url": "https://codepen.io/jdan/pen/QmXYPB" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a small codepen",
+            "href": "https://codepen.io/jdan/pen/QmXYPB"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " where I had a go at\nstyling some buttons. This was born out of a remarkably pedantic observation I made where many people would draw Windows-98 buttons like this:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " where I had a go at\nstyling some buttons. This was born out of a remarkably pedantic observation I made where many people would draw Windows-98 buttons like this:",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "81178d77-f3cb-49fe-9ba5-b0b48289660b",
+      "created_time": "2021-10-21T12:41:00.000Z",
+      "last_edited_time": "2021-10-21T12:41:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/190d7ca3-f547-411c-8ef5-d4605e8be4bd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211113T164841Z&X-Amz-Expires=3600&X-Amz-Signature=a2b4dfb39ea3132c153129e42d385bde2ba49ebb967867b9e4c6258bd776c1f6&X-Amz-SignedHeaders=host",
+          "expiry_time": "2021-11-13T17:48:41.779Z"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "b1cdc332-41c5-4bb4-9578-cff135d8f3c2",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:41:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Instead of with proper \"pixelated\" borders like so:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Instead of with proper \"pixelated\" borders like so:",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "5eff672c-4e1c-4ed5-acdf-19763503083c",
+      "created_time": "2021-10-21T12:41:00.000Z",
+      "last_edited_time": "2021-10-21T12:41:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c2e5d1a5-2db9-4e12-a3f1-dc720f183fdd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211113T164841Z&X-Amz-Expires=3600&X-Amz-Signature=01ecd02e7d0908dc898a01fc150e5f11be67978f3c3bfaaafe3d65ad62b0cd8f&X-Amz-SignedHeaders=host",
+          "expiry_time": "2021-11-13T17:48:41.778Z"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "8392216f-11a2-41ae-aee3-2701347f1d71",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Turns out this behavior is well-specified in the glorious ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Turns out this behavior is well-specified in the glorious ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Microsoft Windows User Experience",
+              "link": { "url": "https://amzn.to/2YdvLve" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Microsoft Windows User Experience",
+            "href": "https://amzn.to/2YdvLve"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " reference manual.\nI grabbed a copy and went to work. First buttons, then windows, navbars, scrollbars, inputs, and all sorts of things.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " reference manual.\nI grabbed a copy and went to work. First buttons, then windows, navbars, scrollbars, inputs, and all sorts of things.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "1c24be61-ca31-436d-bab7-ebd04a2a616a",
+      "created_time": "2021-10-21T12:41:00.000Z",
+      "last_edited_time": "2021-10-21T12:41:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59440153-4622-4585-aeb4-e58ef769306e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211113T164841Z&X-Amz-Expires=3600&X-Amz-Signature=882ba739cc9c170c6807e163ac8bda29e67ec32fe6275d92a9c44d0cfcecb7d5&X-Amz-SignedHeaders=host",
+          "expiry_time": "2021-11-13T17:48:41.781Z"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "631c2dcb-9e16-4a0d-b294-bdef56f760d4",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "My tools were a Windows 98 VM and MSPaint for measuring pixels. I used ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "My tools were a Windows 98 VM and MSPaint for measuring pixels. I used ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Figma",
+              "link": { "url": "https://www.figma.com/" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Figma",
+            "href": "https://www.figma.com/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " to draw some icons (wonderful tool btw, great work team).\nI did all of my development on my Windows desktop using ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " to draw some icons (wonderful tool btw, great work team).\nI did all of my development on my Windows desktop using ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Visual Studio Code",
+              "link": { "url": "https://code.visualstudio.com/" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Visual Studio Code",
+            "href": "https://code.visualstudio.com/"
+          },
+          {
+            "type": "text",
+            "text": { "content": " and\n", "link": null },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " and\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Windows Subsystem for Linux (WSL)",
+              "link": {
+                "url": "https://docs.microsoft.com/en-us/windows/wsl/install-win10"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Windows Subsystem for Linux (WSL)",
+            "href": "https://docs.microsoft.com/en-us/windows/wsl/install-win10"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". Web development on Windows has come a long way and I really\nlove my environment.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". Web development on Windows has come a long way and I really\nlove my environment.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "9a3959d5-6d8b-44d9-8125-6fd7d2992a32",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The project itself had three main objectives:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The project itself had three main objectives:",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "78dc5f33-a62a-4171-83ac-407d834cc26e",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Make it as pixel-perfect as I reasonably can",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Make it as pixel-perfect as I reasonably can",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " as a creative exercise. I'm going for nostalgia points and I have to really nail it.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " as a creative exercise. I'm going for nostalgia points and I have to really nail it.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "c6a3edd9-2ae7-40d1-a60e-7e3f790e2848",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": { "content": "Make it accessible", "link": null },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Make it accessible",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". Windows 98 is such a wonderfully accessible and intuitive UI style and I couldn't ruin that. I had to do right by it.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". Windows 98 is such a wonderfully accessible and intuitive UI style and I couldn't ruin that. I had to do right by it.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "f88a17cb-f46f-4700-be3a-395ee5a593f3",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Make it a stylesheet that prettied up HTML and nothing more",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Make it a stylesheet that prettied up HTML and nothing more",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". There are some obvious UI elements that I could build with JavaScript:\nnav menus, tab panels, that sort of thing, but I was incredibly hesitant to pick a JavaScript framework or roll my own. Instead I made\nthe decision to style HTML and not care who sent it to me, be it React or Vue or whatever you want.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". There are some obvious UI elements that I could build with JavaScript:\nnav menus, tab panels, that sort of thing, but I was incredibly hesitant to pick a JavaScript framework or roll my own. Instead I made\nthe decision to style HTML and not care who sent it to me, be it React or Vue or whatever you want.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "d30b9d8d-69e4-4257-9c21-1ddf4bd3c00d",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "So after about two weeks (with lots and lots of breaks, I'm just not good at sitting in front of a computer for hours anymore) of\ndevelopment and cutting scope, I shipped it. I was surprised by how many people \"got\" it, how many people felt the same nostalgia\nthat I felt when I first set out to build this silly thing. The haunted orange website even had its\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "So after about two weeks (with lots and lots of breaks, I'm just not good at sitting in front of a computer for hours anymore) of\ndevelopment and cutting scope, I shipped it. I was surprised by how many people \"got\" it, how many people felt the same nostalgia\nthat I felt when I first set out to build this silly thing. The haunted orange website even had its\n",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "fair share of pleasant comments",
+              "link": { "url": "https://news.ycombinator.com/item?id=22940564" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "fair share of pleasant comments",
+            "href": "https://news.ycombinator.com/item?id=22940564"
+          },
+          {
+            "type": "text",
+            "text": { "content": ":", "link": null },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ":",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "143458e7-caaf-4fbc-bfa5-cde01cfc93ee",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": true,
+      "archived": false,
+      "type": "quote",
+      "quote": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "My heart beat a little faster when I saw the VB dialog box. I experienced building software for the first time when I was taken to my father's office where they used VB and Foxpro (and still do) to build ERP systems. Everything looked like this site.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "My heart beat a little faster when I saw the VB dialog box. I experienced building software for the first time when I was taken to my father's office where they used VB and Foxpro (and still do) to build ERP systems. Everything looked like this site.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "47f759ea-bc1d-4125-81fa-4629000363a0",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": { "content": "The community also sent ", "link": null },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The community also sent ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "many PRs my way",
+              "link": {
+                "url": "https://github.com/jdan/98.css/pulls?q=is%3Apr+is%3Aclosed"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "many PRs my way",
+            "href": "https://github.com/jdan/98.css/pulls?q=is%3Apr+is%3Aclosed"
+          },
+          {
+            "type": "text",
+            "text": { "content": ", from small bug-fixes to ", "link": null },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", from small bug-fixes to ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "giving 98.css properly-pixelated fonts",
+              "link": { "url": "https://github.com/jdan/98.css/pull/27" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "giving 98.css properly-pixelated fonts",
+            "href": "https://github.com/jdan/98.css/pull/27"
+          },
+          {
+            "type": "text",
+            "text": { "content": " to ", "link": null },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " to ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "semantically expandable tree views",
+              "link": { "url": "https://github.com/jdan/98.css/pull/69" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "semantically expandable tree views",
+            "href": "https://github.com/jdan/98.css/pull/69"
+          },
+          {
+            "type": "text",
+            "text": { "content": ". Y'all are the best ✨.", "link": null },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". Y'all are the best ✨.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "d2ab0ba0-13b8-447a-8772-27e338861158",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:42:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I also found myself distracted for a few hours ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I also found myself distracted for a few hours ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "building a service",
+              "link": { "url": "https://github.com/jdan/98.css-badges" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "building a service",
+            "href": "https://github.com/jdan/98.css-badges"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " to generate these swanky npm version and bundle size badges, since the ones on the wonderful ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " to generate these swanky npm version and bundle size badges, since the ones on the wonderful ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "shields.io",
+              "link": { "url": "https://shields.io/" }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "shields.io",
+            "href": "https://shields.io/"
+          },
+          {
+            "type": "text",
+            "text": { "content": " didn't fit my aesthetic.", "link": null },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " didn't fit my aesthetic.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "e6b1961f-a8f2-4802-ac88-14c73af4e13e",
+      "created_time": "2021-10-21T12:42:00.000Z",
+      "last_edited_time": "2021-10-21T12:51:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "external",
+        "external": { "url": "https://98badges.now.sh/api/version" }
+      }
+    },
+    {
+      "object": "block",
+      "id": "2f6c996d-0e23-4ea3-8f36-fece89d7c12b",
+      "created_time": "2021-10-21T12:42:00.000Z",
+      "last_edited_time": "2021-10-21T12:51:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "external",
+        "external": { "url": "https://98badges.now.sh/api/size" }
+      }
+    },
+    {
+      "object": "block",
+      "id": "afbd8e83-9d5c-467d-9312-bedb05019ceb",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The code for generating these on-demand ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The code for generating these on-demand ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "lives here and is quite terrible",
+              "link": {
+                "url": "https://github.com/jdan/98.css-badges/blob/main/api/size.js"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "lives here and is quite terrible",
+            "href": "https://github.com/jdan/98.css-badges/blob/main/api/size.js"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", but I'm\nproud of it for working at all.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", but I'm\nproud of it for working at all.",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "a3e27cef-8dc0-47f6-9a63-3d45f5293778",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "I was fortunate enough to lose myself in ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "I was fortunate enough to lose myself in ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "a clicker game built with 98.css",
+              "link": {
+                "url": "https://twitter.com/pieskucom/status/1254396566863036418"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "a clicker game built with 98.css",
+            "href": "https://twitter.com/pieskucom/status/1254396566863036418"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "\ncalled \"Time is Money\" for about an hour, and spent some time clicking around ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\ncalled \"Time is Money\" for about an hour, and spent some time clicking around ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "the GitHub projects that brought in 98.css",
+              "link": {
+                "url": "https://github.com/jdan/98.css/network/dependents?package_id=UGFja2FnZS0xMTA3MTQ5NTgw"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "the GitHub projects that brought in 98.css",
+            "href": "https://github.com/jdan/98.css/network/dependents?package_id=UGFja2FnZS0xMTA3MTQ5NTgw"
+          },
+          {
+            "type": "text",
+            "text": { "content": ".", "link": null },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "0c7bf685-7958-41dd-a0bb-63775e04df78",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you made anything cool, please send it my way, nothing would make me happier :)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you made anything cool, please send it my way, nothing would make me happier :)",
+            "href": null
+          }
+        ]
+      }
+    },
+    {
+      "object": "block",
+      "id": "a71ff450-8071-4c35-80c4-76e116c0ac29",
+      "created_time": "2021-10-21T12:40:00.000Z",
+      "last_edited_time": "2021-10-21T12:40:00.000Z",
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "All in all I smiled while building this, and brought some smiles when I shipped it. That makes for a good project in my book, but only\ntime will tell if this library is actually useful to anyone or just something people tweet about and move on.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "All in all I smiled while building this, and brought some smiles when I shipped it. That makes for a good project in my book, but only\ntime will tell if this library is actually useful to anyone or just something people tweet about and move on.",
+            "href": null
+          }
+        ]
+      }
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false
+}

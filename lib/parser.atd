@@ -1,0 +1,28 @@
+type color = [
+  | Default <json name="default">
+]
+
+type annotations = {
+  bold: bool;
+  italic: bool;
+  strikethrough: bool;
+  underline: bool;
+  code: bool;
+  color: color;
+}
+
+type text_content = {
+  content: string;
+  ?link: string option;
+}
+
+type text = {
+  text: text_content;
+  annotations: annotations;
+  plain_text: string;
+  ?href: string option;
+}
+
+type text_entry = [
+  | Text <json name="text"> of text
+] <json adapter.ocaml="Atdgen_runtime.Json_adapter.Type_field">

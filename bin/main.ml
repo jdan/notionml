@@ -1,0 +1,1 @@
+let () = Notionml.Api.main ()
