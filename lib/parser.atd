@@ -1,3 +1,4 @@
+(* Text stuff *)
 type color = [
   | Default <json name="default">
 ]
@@ -31,6 +32,7 @@ type text_entry = [
   | Text <json name="text"> of text
 ] <json adapter.ocaml="Atdgen_runtime.Json_adapter.Type_field">
 
+(* Paragraphs *)
 type paragraph_content = {
   text: text_entry list;
 }
@@ -43,8 +45,57 @@ type paragraph = {
   archived: bool;
 }
 
+(* Images *)
+type file = {
+  url: string;
+  expiry_time: string;
+}
+
+type image_file = {
+  caption: text_entry list;
+  file: file;
+}
+
+type external_ = {
+  url: string;
+}
+
+type image_external = {
+  caption: text_entry list;
+  external_ <json name="external">: external_;
+}
+
+type image_content = [
+  | Image_file <json name="file"> of image_file
+  | Image_external <json name="external"> of image_external
+] <json adapter.ocaml="Atdgen_runtime.Json_adapter.Type_field">
+
+type image = {
+  image: image_content;
+  id: string;
+  created_time: string;
+  has_children: bool;
+  archived: bool;
+}
+
+(* Quotes *)
+type quote_content = {
+  text: text_entry list;
+}
+
+type quote = {
+  quote: quote_content;
+  id: string;
+  created_time: string;
+  has_children: bool;
+  archived: bool;
+}
+
+(* All together now *)
 type block = [
   | Paragraph <json name="paragraph"> of paragraph
+  | Image <json name="image"> of image
+  | Quote <json name="quote"> of quote
 ] <json adapter.ocaml="Atdgen_runtime.Json_adapter.Type_field">
 
 type results = {
