@@ -13,4 +13,4 @@
 (library
  (name notionml)
  (libraries atdgen)
- (modules api parser_t parser_j lowercase_type_field))
+ (modules api parser_t parser_j))

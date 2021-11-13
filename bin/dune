@@ -1,4 +1,4 @@
 (executable
  (public_name notionml)
  (name main)
- (libraries notionml))
+ (libraries shell notionml))

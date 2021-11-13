@@ -11,9 +11,13 @@ type annotations = {
   color: color;
 }
 
+type link = {
+  url: string;
+}
+
 type text_content = {
   content: string;
-  ?link: string option;
+  ?link: link option;
 }
 
 type text = {
@@ -26,3 +30,23 @@ type text = {
 type text_entry = [
   | Text <json name="text"> of text
 ] <json adapter.ocaml="Atdgen_runtime.Json_adapter.Type_field">
+
+type paragraph_content = {
+  text: text_entry list;
+}
+
+type paragraph = {
+  paragraph: paragraph_content;
+  id: string;
+  created_time: string;
+  has_children: bool;
+  archived: bool;
+}
+
+type block = [
+  | Paragraph <json name="paragraph"> of paragraph
+] <json adapter.ocaml="Atdgen_runtime.Json_adapter.Type_field">
+
+type results = {
+  results: block list;
+}
